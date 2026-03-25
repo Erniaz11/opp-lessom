@@ -1,0 +1,9 @@
+# unit конструктор для созадания атрибутов
+
+# class Car:
+#     def init(self, brand, speed):
+#         self.brand = brand
+#         self.speed = speed
+
+#     def drive(self):
+#         print(f"Машина едет со скоростью {self.speed}")
